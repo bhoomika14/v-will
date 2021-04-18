@@ -18,6 +18,18 @@
 
     <!-- Main CSS-->
     <link href="registration/css/main.css" rel="stylesheet" media="all">
+
+    <style>
+        h2{
+            color: green;
+            text-align: center;
+        }
+        img{
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+    </style>
     
     
 </head>
@@ -30,10 +42,12 @@
                     <h2 class="title" style="color:white;">Thank you!</h2>
                 </div>
                  <div class="card-body">
+                 <img src="images\donate.jpg" alt="">
+                    <h2 style="padding:2%;">“Giving is not just about making a donation. It is about making a difference.”<br>- Kathy Calvin</h2>
 
                 </div>
                 <div class="card-footer">
-                    <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_GzzmegJ71VQA4J" async> </script> </form>
+                    <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_H0Hi02giu9sOoj" async> </script> </form>
                 </div>
             
             </div>
@@ -51,30 +65,6 @@
 
     <script src="registration/js/script.js"></script>
 
-
-
-    <!--<script>
-        function myFunction() {
-        var x = document.getElementById("myInput");
-        if (x.type === "password") {
-            x.type = "text";
-        } else {
-            x.type = "password";
-        }
-        }
-     </script>
-     <script>
-        function myFunction1() {
-        var x = document.getElementById("myInput1");
-        if (x.type === "password") {
-            x.type = "text";
-        } else {
-            x.type = "password";
-        }
-        }
-     </script>--> 
-
-    
 
 </body><!-- This templates was made by Colorlib (https://colorlib.com) -->
 
