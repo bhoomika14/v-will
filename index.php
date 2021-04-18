@@ -62,7 +62,7 @@
 							<h2>V-will</h2>
 						</header>
 						<p>Make a <strong>Difference!</strong><br>
-							From being a part of the complainants we are now part of the solution, <br>and that has changed the way we look at everything.
+							From being a part of the complaints we are now part of the solution, <br>and that has changed the way we look at everything.
 						
 						</p>
 						<footer>
