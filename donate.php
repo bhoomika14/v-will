@@ -44,7 +44,7 @@
                  <div class="card-body">
                  <img src="images\donate.jpg" alt="">
                     <h2 style="padding:2%;">“Giving is not just about making a donation. It is about making a difference.”<br>- Kathy Calvin</h2>
-
+                    
                 </div>
                 <div class="card-footer">
                     <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_H0Hi02giu9sOoj" async> </script> </form>
